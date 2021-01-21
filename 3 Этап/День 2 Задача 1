@@ -1,3 +1,5 @@
+
+//День 2 Задача 1. Футбол
 #include <iostream>
 #include <algorithm>
 using namespace std;
